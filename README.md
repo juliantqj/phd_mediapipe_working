@@ -2,8 +2,8 @@
 
 There are two types of MediaPipe skeleton tracking in this folder:- pose and holistic.
 
-Pose: https://developers.google.com/mediapipe/solutions/vision/pose_landmarker
-Holistic: https://developers.google.com/mediapipe/solutions/vision/holistic_landmarker
+1) Pose: https://developers.google.com/mediapipe/solutions/vision/pose_landmarker
+2) Holistic: https://developers.google.com/mediapipe/solutions/vision/holistic_landmarker
 
 Use the "clean" version, the other version are just for backup. "edit" version is to play around with whatever.
 

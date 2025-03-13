@@ -346,7 +346,7 @@ def save_data(video_file_name, dirDAT, temp_pose_df1_list, temp_pose_df2_list, c
 
 if __name__ == "__main__":
     input_videos_folder = 'videos/'
-    model_path = 'models/pose_landmarker_heavy.task'
+    model_path = 'models/pose_landmarker_full.task'
 
     st_time = time.time()
     print("Python file running:", os.path.basename(__file__))
